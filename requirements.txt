@@ -1,0 +1,8 @@
+voila
+ipywidgets
+cmdstanpy
+pandas
+numpy
+statsmodels
+matplotlib
+arviz
